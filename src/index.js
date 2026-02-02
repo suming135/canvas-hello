@@ -18,7 +18,7 @@ const draw = () => {
   ctx.font = '48px "Courier New", monospace';
   ctx.textAlign = 'center';
   ctx.textBaseline = 'middle';
-  ctx.fillText('hello world', canvas.width / 2, canvas.height / 2);
+  ctx.fillText('hello suming', canvas.width / 2, canvas.height / 2);
 };
 
 fit();
